@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dhruv%20Devaliya&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Intelligent%20Systems&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dhruv%20Devaliya&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <!-- Dynamic Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+Engineer;Data+Scientist;Machine+Learning+Engineer;Generative+AI+Developer;Deep+Learning+Researcher;LLM+%26+Agentic+AI+Specialist" alt="Typing SVG" /></a>
@@ -22,7 +22,7 @@
 
 ## 🧠 About Me
 
-<img align="right" alt="AI Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="AI Brain" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 > *"The best way to predict the future is to build it."*
 
@@ -126,13 +126,6 @@ I believe AI should not just predict — it should **drive decisions and create 
 
 ---
 
-## 🏅 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bit-bard&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</div>
-
----
 
 ## 📡 Connect With Me
 
