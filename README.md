@@ -2,7 +2,7 @@
 
 <img width="100%" src="./assets/hero.svg" alt="Bit Industries AI Division"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=20&pause=1200&color=4BE9FF&background=00000000&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning;Agentic+AI;LLM+Systems" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=20&pause=1200&color=FF6A4D&background=00000000&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning;Agentic+AI;LLM+Systems" alt="Typing SVG"/></a>
 
 </div>
 
@@ -18,17 +18,19 @@
 
 <img src="https://komarev.com/ghpvc/?username=bit-bard&style=flat-square&color=0a0a0a&label=SCANS+RECEIVED&labelColor=000000" alt="Profile Views"/>
 &nbsp;
-<a href="https://linkedin.com/in/dhruv-devaliya"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=4BE9FF"/></a>
+<a href="https://linkedin.com/in/dhruv-devaliya"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=FF6A4D"/></a>
 &nbsp;
-<a href="https://kaggle.com/dhruvdevaliya"><img src="https://img.shields.io/badge/KAGGLE-000000?style=flat-square&logo=kaggle&logoColor=4BE9FF"/></a>
+<a href="https://kaggle.com/dhruvdevaliya"><img src="https://img.shields.io/badge/KAGGLE-000000?style=flat-square&logo=kaggle&logoColor=FF6A4D"/></a>
 &nbsp;
-<a href="mailto:dhruvdevaliya@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=4BE9FF"/></a>
+<a href="mailto:dhruvdevaliya@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=FF6A4D"/></a>
 
 </div>
 
 <br/>
 
 ## TECH STACK
+
+<p align="center"><sub><i>"I don't just build things. I build things that work — most days."</i></sub></p>
 
 <div align="center">
 <img width="100%" src="./assets/tech-capsules.svg" alt="Tech stack"/>
@@ -37,6 +39,8 @@
 <br/>
 
 ## MISSION LOG
+
+<p align="center"><sub><i>"Genius, billionaire... still working on two out of three. Meanwhile, here's the trophy case."</i></sub></p>
 
 <table>
 <tr><th align="left">RECORD</th><th align="left">LOCATION / YEAR</th><th align="left">DETAIL</th></tr>
@@ -70,6 +74,8 @@
 <br/>
 
 ## DEPLOYMENTS
+
+<p align="center"><sub><i>"Sometimes you gotta run the model before the paperwork's even done."</i></sub></p>
 
 <table>
 <tr><th align="left">PROJECT</th><th align="left">DESCRIPTION</th><th align="left">STACK</th></tr>
@@ -109,31 +115,35 @@
 
 ## DIAGNOSTICS
 
+<p align="center"><sub><i>"Pull up the numbers. All of them."</i></sub></p>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bit-bard&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=4BE9FF&icon_color=ff3b4e&text_color=8ab5c2&border_color=1c2228"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bit-bard&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FF6A4D&icon_color=ff8a00&text_color=c98a78&border_color=3a1214"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bit-bard&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=4BE9FF&text_color=8ab5c2&border_color=1c2228"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bit-bard&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=FF6A4D&text_color=c98a78&border_color=3a1214"/>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=bit-bard&hide_border=true&background=000000&ring=4BE9FF&fire=ff3b4e&currStreakLabel=4BE9FF&sideLabels=8ab5c2&currStreakNum=8ab5c2&sideNums=8ab5c2&dates=3a5460" alt="GitHub Streak"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=bit-bard&hide_border=true&background=000000&ring=FF6A4D&fire=ff8a00&currStreakLabel=FF6A4D&sideLabels=c98a78&currStreakNum=c98a78&sideNums=c98a78&dates=8a5048" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=bit-bard&theme=react-dark&hide_border=true&bg_color=000000&color=4BE9FF&line=ff3b4e&point=4BE9FF" alt="Activity Graph"/>
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=bit-bard&theme=react-dark&hide_border=true&bg_color=000000&color=FF6A4D&line=ff8a00&point=FF6A4D" alt="Activity Graph"/>
 </div>
 
 <br/>
 
 ## OPEN CHANNEL
 
+<p align="center"><sub><i>"The suit and I are one. So is the inbox — go ahead, ping it."</i></sub></p>
+
 <div align="center">
 
-<a href="https://linkedin.com/in/dhruv-devaliya"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=4BE9FF"/></a>
+<a href="https://linkedin.com/in/dhruv-devaliya"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=FF6A4D"/></a>
 &nbsp;
-<a href="https://kaggle.com/dhruvdevaliya"><img src="https://img.shields.io/badge/VIEW_ON_KAGGLE-000000?style=flat-square&logo=kaggle&logoColor=4BE9FF"/></a>
+<a href="https://kaggle.com/dhruvdevaliya"><img src="https://img.shields.io/badge/VIEW_ON_KAGGLE-000000?style=flat-square&logo=kaggle&logoColor=FF6A4D"/></a>
 &nbsp;
-<a href="mailto:dhruvdevaliya@gmail.com"><img src="https://img.shields.io/badge/SEND_TRANSMISSION-000000?style=flat-square&logo=gmail&logoColor=4BE9FF"/></a>
+<a href="mailto:dhruvdevaliya@gmail.com"><img src="https://img.shields.io/badge/SEND_TRANSMISSION-000000?style=flat-square&logo=gmail&logoColor=FF6A4D"/></a>
 
 <br/><br/>
 <sub>OPEN TO COLLABORATIONS, RESEARCH PROJECTS, AND AI ENGINEERING OPPORTUNITIES.</sub>
