@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/hero.svg" alt="Stark Industries AI Division"/>
+<img width="100%" src="./assets/hero.svg" alt="Bit Industries AI Division"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=20&pause=1200&color=4BE9FF&background=00000000&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning;Agentic+AI;LLM+Systems" alt="Typing SVG"/></a>
 
