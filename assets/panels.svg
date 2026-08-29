@@ -1,0 +1,118 @@
+<svg width="100%" viewBox="0 0 1000 190" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="glassFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1c2228" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#05070a" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="barFillCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0057ff"/>
+      <stop offset="100%" stop-color="#4be9ff"/>
+    </linearGradient>
+    <linearGradient id="barFillRed" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8a0f1f"/>
+      <stop offset="100%" stop-color="#ff3b4e"/>
+    </linearGradient>
+    <filter id="pGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- shared panel frame template repeated via groups -->
+  <!-- PANEL 1: SYSTEM STATUS -->
+  <g transform="translate(10,10)">
+    <rect width="230" height="170" rx="10" fill="url(#glassFill)" stroke="#3fb8d6" stroke-width="1" opacity="0.95"/>
+    <rect width="230" height="170" rx="10" fill="none" stroke="#4be9ff" stroke-width="0.6" opacity="0.4"/>
+    <text x="18" y="30" font-family="'Courier New',monospace" font-size="12" letter-spacing="2" fill="#7fe9ff">SYSTEM STATUS</text>
+    <line x1="18" y1="40" x2="212" y2="40" stroke="#215866" stroke-width="1"/>
+    <circle cx="30" cy="66" r="7" fill="#00ffb2" filter="url(#pGlow)">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="48" y="71" font-family="'Courier New',monospace" font-size="16" fill="#c9fff0" letter-spacing="1">ONLINE</text>
+
+    <text x="18" y="100" font-family="'Courier New',monospace" font-size="10" fill="#5a7f8c">POWER GRID</text>
+    <rect x="18" y="106" width="194" height="6" rx="3" fill="#0d1418"/>
+    <rect x="18" y="106" width="170" height="6" rx="3" fill="url(#barFillCyan)">
+      <animate attributeName="width" values="150;188;150" dur="3.4s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="18" y="128" font-family="'Courier New',monospace" font-size="10" fill="#5a7f8c">LIFE SUPPORT</text>
+    <rect x="18" y="134" width="194" height="6" rx="3" fill="#0d1418"/>
+    <rect x="18" y="134" width="194" height="6" rx="3" fill="url(#barFillCyan)"/>
+
+    <text x="18" y="156" font-family="'Courier New',monospace" font-size="9" fill="#3a5460">UPTIME: 99.98%   LATENCY: 4MS</text>
+  </g>
+
+  <!-- PANEL 2: ARC REACTOR OUTPUT -->
+  <g transform="translate(260,10)">
+    <rect width="230" height="170" rx="10" fill="url(#glassFill)" stroke="#3fb8d6" stroke-width="1" opacity="0.95"/>
+    <rect width="230" height="170" rx="10" fill="none" stroke="#4be9ff" stroke-width="0.6" opacity="0.4"/>
+    <text x="18" y="30" font-family="'Courier New',monospace" font-size="12" letter-spacing="2" fill="#7fe9ff">ARC REACTOR OUTPUT</text>
+    <line x1="18" y1="40" x2="212" y2="40" stroke="#215866" stroke-width="1"/>
+
+    <text x="115" y="95" text-anchor="middle" font-family="'Courier New',monospace" font-size="30" fill="#eafcff" filter="url(#pGlow)">
+      <animate attributeName="opacity" values="0.75;1;0.75" dur="1.8s" repeatCount="indefinite"/>
+      3.2 GW
+    </text>
+
+    <rect x="18" y="112" width="194" height="6" rx="3" fill="#0d1418"/>
+    <rect x="18" y="112" width="0" height="6" rx="3" fill="url(#barFillCyan)">
+      <animate attributeName="width" values="120;194;120" dur="2.8s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="18" y="140" font-family="'Courier New',monospace" font-size="10" fill="#5a7f8c">CONTAINMENT FIELD</text>
+    <rect x="18" y="146" width="194" height="6" rx="3" fill="#0d1418"/>
+    <rect x="18" y="146" width="184" height="6" rx="3" fill="url(#barFillCyan)"/>
+    <text x="18" y="165" font-family="'Courier New',monospace" font-size="9" fill="#3a5460">STATUS: STABLE / NO LEAKAGE</text>
+  </g>
+
+  <!-- PANEL 3: NEURAL CORE -->
+  <g transform="translate(510,10)">
+    <rect width="230" height="170" rx="10" fill="url(#glassFill)" stroke="#3fb8d6" stroke-width="1" opacity="0.95"/>
+    <rect width="230" height="170" rx="10" fill="none" stroke="#4be9ff" stroke-width="0.6" opacity="0.4"/>
+    <text x="18" y="30" font-family="'Courier New',monospace" font-size="12" letter-spacing="2" fill="#7fe9ff">NEURAL CORE</text>
+    <line x1="18" y1="40" x2="212" y2="40" stroke="#215866" stroke-width="1"/>
+
+    <text x="18" y="65" font-family="'Courier New',monospace" font-size="10" fill="#5a7f8c">INFERENCE LOAD</text>
+    <rect x="18" y="71" width="194" height="6" rx="3" fill="#0d1418"/>
+    <rect x="18" y="71" width="140" height="6" rx="3" fill="url(#barFillRed)">
+      <animate attributeName="width" values="100;170;100" dur="3s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="18" y="93" font-family="'Courier New',monospace" font-size="10" fill="#5a7f8c">MEMORY SYNC</text>
+    <rect x="18" y="99" width="194" height="6" rx="3" fill="#0d1418"/>
+    <rect x="18" y="99" width="180" height="6" rx="3" fill="url(#barFillCyan)"/>
+
+    <text x="18" y="121" font-family="'Courier New',monospace" font-size="10" fill="#5a7f8c">CONTEXT RETENTION</text>
+    <rect x="18" y="127" width="194" height="6" rx="3" fill="#0d1418"/>
+    <rect x="18" y="127" width="192" height="6" rx="3" fill="url(#barFillCyan)"/>
+
+    <text x="18" y="155" font-family="'Courier New',monospace" font-size="9" fill="#3a5460">MODE: AGENTIC / MULTI-SESSION</text>
+  </g>
+
+  <!-- PANEL 4: AI MODULES LOADED -->
+  <g transform="translate(760,10)">
+    <rect width="230" height="170" rx="10" fill="url(#glassFill)" stroke="#3fb8d6" stroke-width="1" opacity="0.95"/>
+    <rect width="230" height="170" rx="10" fill="none" stroke="#4be9ff" stroke-width="0.6" opacity="0.4"/>
+    <text x="18" y="30" font-family="'Courier New',monospace" font-size="12" letter-spacing="2" fill="#7fe9ff">AI MODULES LOADED</text>
+    <line x1="18" y1="40" x2="212" y2="40" stroke="#215866" stroke-width="1"/>
+
+    <g font-family="'Courier New',monospace" font-size="10" fill="#c9e8f2">
+      <rect x="18" y="52" width="8" height="8" fill="#4be9ff"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.6s" begin="0s" repeatCount="indefinite"/></rect>
+      <text x="34" y="60">LLM ORCHESTRATION</text>
+
+      <rect x="18" y="72" width="8" height="8" fill="#4be9ff"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.6s" begin="0.3s" repeatCount="indefinite"/></rect>
+      <text x="34" y="80">RAG / RETRIEVAL</text>
+
+      <rect x="18" y="92" width="8" height="8" fill="#4be9ff"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.6s" begin="0.6s" repeatCount="indefinite"/></rect>
+      <text x="34" y="100">AGENT MEMORY</text>
+
+      <rect x="18" y="112" width="8" height="8" fill="#4be9ff"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.6s" begin="0.9s" repeatCount="indefinite"/></rect>
+      <text x="34" y="120">VISION / DETECTION</text>
+
+      <rect x="18" y="132" width="8" height="8" fill="#4be9ff"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.6s" begin="1.2s" repeatCount="indefinite"/></rect>
+      <text x="34" y="140">REINFORCEMENT LEARNING</text>
+    </g>
+    <text x="18" y="160" font-family="'Courier New',monospace" font-size="9" fill="#3a5460">5 / 5 MODULES ACTIVE</text>
+  </g>
+</svg>
